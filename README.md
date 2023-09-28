@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository to your local machine.**
 
    ```bash
-   git clone https://github.com/your-username/restaurant-menu-api.git
+   git clone https://github.com/Brightness999/Restaurant_menu_api.git
    ```
 
 2. **Navigate to the project directory.**
